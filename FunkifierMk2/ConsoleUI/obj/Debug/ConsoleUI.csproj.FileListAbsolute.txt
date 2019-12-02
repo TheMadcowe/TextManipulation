@@ -1,0 +1,7 @@
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Madcowe\Documents\Professional\Programming\Visual Studio\FunkifierMk2\ConsoleUI\obj\Debug\ConsoleUI.pdb
